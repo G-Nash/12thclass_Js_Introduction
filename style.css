@@ -22,7 +22,7 @@ body{
     padding: 1rem;
 }
 
-@media screen and (min-width:800px) {
+@media screen and (min-width:850px) {
     .page{
         width:60vw;
     }
@@ -33,6 +33,6 @@ body{
     text-decoration: underline;
 }
 
-.subheading{
+.subHeading{
     text-decoration: underline;
 }
